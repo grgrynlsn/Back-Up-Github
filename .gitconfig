@@ -1,0 +1,7 @@
+[user]
+    email = 000gregorynelson@gmail.com
+    name = gsutjijadi
+
+[alias]
+    cm = "!git commit -m '...'"
+    cam = "!git commit -am '...'"
